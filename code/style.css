@@ -1,0 +1,24 @@
+.header{
+    background-image: url("/img/photo_2022-06-05_13-14-26 1.jpeg");
+    width: 1440px;
+    height: 1024px;
+}
+.tex{
+    font-size: 24px;
+    font-family: "Inter";
+    color: rgb(255, 255, 255);
+    font-weight: 200;
+    line-height: 29px;
+    margin-top: 55px;
+    margin-left: 156;
+}
+.flex1{
+    display: flex;
+    gap: 10px;
+}
+.item1{
+    list-style: none;
+}
+body{
+    margin: 0;
+}
