@@ -1,6 +1,6 @@
 .header{
     background-image: url("/img/photo_2022-06-05_13-14-26 1.jpeg");
-    width: 1440px;
+    background-size: cover;
     height: 1024px;
 }
 .tex{
@@ -11,14 +11,54 @@
     line-height: 29px;
     margin-top: 55px;
     margin-left: 156;
+
 }
 .flex1{
     display: flex;
-    gap: 10px;
+    margin: 0;
+    gap: 30px;
 }
 .item1{
     list-style: none;
+    
 }
 body{
     margin: 0;
+}
+html{
+
+}
+.h11{
+    color: rgb(255, 255, 255);
+    font-family: "Inter"        ;
+    font-size: 70px;
+    font-weight: 200;
+    line-height: 85px;
+    margin-left: 146px;
+    margin-top: 155px;
+}
+.lorem1{
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 25px;
+    width: 570.25px;
+    height: 200px;
+    margin-left: 160px;
+    margin-top: 22px;
+    margin-bottom: 0;
+}
+.button1{
+    border-radius: 17px;
+    background: rgb(180, 123, 72);
+    width: 207px;
+    height: 57px;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+    color: rgb(255, 255, 255);
+    margin-left: 157px;
+    margin-top: 3px;
 }
