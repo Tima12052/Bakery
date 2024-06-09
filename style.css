@@ -1,5 +1,5 @@
 .header{
-    background-image: url("/img/bgi.jpeg");
+    background-image: url("./img/bgi.jpeg");
     background-size: cover;
     height: 1024px;
 }
