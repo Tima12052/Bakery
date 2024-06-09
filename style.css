@@ -61,7 +61,66 @@ html{
     color: rgb(255, 255, 255);
     margin-left: 157px;
     margin-top: 3px;
+    margin-bottom: 125;
 }
 .item2{
+    list-style: none;
+    
+}
+.vid1{
+    width: 310px;
+    height: 225px;
+    background-color: rgb(39, 39, 39); 
+    margin-left: 70px;
 
+}
+.vid2{
+    width: 310px;
+    height: 225px;
+    background-color: rgb(39, 39, 39);  
+}
+.vid3{
+    width: 310px;
+    height: 225px;
+    background-color: rgb(39, 39, 39); 
+}
+.flex2{
+    display: flex;
+    gap: 104px;
+}
+.im1{
+
+}
+.im2{
+    
+}
+.im3{
+    
+}
+.sec1{
+        display: flex;
+}
+.sec2{
+    
+}
+.sec3{
+    
+}
+.h31{
+
+}
+.h32{
+    
+}
+.h33{
+    
+}
+.p1{
+
+}
+.p2{
+    
+}
+.p3{
+    
 }
