@@ -92,19 +92,20 @@ html{
 
 }
 .im2{
-    
+   width: 213px;
+   height: 225px; 
 }
 .im3{
     
 }
 .sec1{
-        display: flex;
+
 }
 .sec2{
-    
+
 }
 .sec3{
-    
+
 }
 .h31{
 
@@ -123,4 +124,22 @@ html{
 }
 .p3{
     
+}
+.vid1{
+    display: flex;
+}
+.vid2{
+    display: flex;
+}
+.vid3{
+    display: flex;
+}
+.vid1:hover{
+    background-color: rgb(235, 173, 81);
+}
+.vid2:hover{
+    background-color: rgb(235, 173, 81);
+}
+.vid3:hover{
+    background-color: rgb(235, 173, 81);
 }
