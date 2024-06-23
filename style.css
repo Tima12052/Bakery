@@ -1,9 +1,10 @@
-.header{
+.header {
     background-image: url("img/bgi.jpeg");
     background-size: cover;
     /* height: 1024px; */
 }
-.tex{
+
+.tex {
     font-size: 24px;
     font-family: "Inter";
     color: rgb(255, 255, 255);
@@ -13,31 +14,32 @@
     margin-left: 156;
 
 }
-.flex1{
+
+.flex1 {
     display: flex;
     margin: 0;
     gap: 30px;
 }
-.item1{
+
+.item1 {
     list-style: none;
-    
-}
-body{
-    margin: 0;
-}
-html{
 
 }
-.h11{
+
+body {
+    margin: 0;
+}
+.h11 {
     color: rgb(255, 255, 255);
-    font-family: "Inter"        ;
+    font-family: "Inter";
     font-size: 70px;
     font-weight: 200;
     line-height: 85px;
     margin-left: 146px;
     margin-top: 155px;
 }
-.lorem1{
+
+.lorem1 {
     color: rgb(255, 255, 255);
     font-family: "Inter";
     font-size: 21px;
@@ -49,7 +51,8 @@ html{
     margin-top: 22px;
     margin-bottom: 0;
 }
-.button1{
+
+.button1 {
     border-radius: 17px;
     background: rgb(180, 123, 72);
     width: 207px;
@@ -63,117 +66,130 @@ html{
     margin-top: 3px;
     margin-bottom: 125px;
 }
-.item2{
+
+.item2 {
     list-style: none;
-    
+
 }
-.vid1{
+
+.vid1 {
     width: 310px;
     height: 225px;
-    background: linear-gradient(65.47deg, rgb(0, 0, 0) -79.118%,rgba(0, 0, 0, 0) 73.925%);
-    background-color: rgb(39, 39, 39); 
+    background: linear-gradient(65.47deg, rgb(0, 0, 0) -79.118%, rgba(0, 0, 0, 0) 73.925%);
+    background-color: rgb(39, 39, 39);
     margin-left: 70px;
 }
-.vid2{
+
+.vid2 {
     width: 310px;
     height: 225px;
-    background-color: rgb(39, 39, 39);  
+    background-color: rgb(39, 39, 39);
 }
-.vid3{
+
+.vid3 {
     width: 310px;
     height: 225px;
-    background-color: rgb(39, 39, 39); 
+    background-color: rgb(39, 39, 39);
 }
-.flex2{
+
+.flex2 {
     display: flex;
     gap: 104px;
+    margin: 0px;
 }
-.im1{
+
+.im1 {
     width: 150px;
     height: 225px;
     margin-top: -23px;
 }
-.im2{
-   width: 213px;
-   height: 225px; 
+
+.im2 {
+    width: 213px;
+    height: 225px;
 }
-.im3{
+
+.im3 {
     width: 193px;
     height: 193px;
+    margin-top: 15px;
 }
-.sec1{
-
-}
-.sec2{
-
-}
-.sec3{
-
-}
-.h31{
+.h31 {
     color: rgb(255, 255, 255);
     font-family: "Inter";
     font-size: 24px;
     font-weight: 200;
     line-height: 29px;
 }
-.h32{
-    color: rgb(255, 255, 255);
-    font-family: "Inter";
-    font-size: 24px;
-    font-weight: 200;
-    line-height: 29px; 
-}
-.h33{
+
+.h32 {
     color: rgb(255, 255, 255);
     font-family: "Inter";
     font-size: 24px;
     font-weight: 200;
     line-height: 29px;
 }
-.p1{
+
+.h33 {
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 29px;
+}
+
+.p1 {
     color: rgb(255, 255, 255);
     font-family: "Inter";
     font-size: 14px;
     font-weight: 500;
     line-height: 17px;
 }
-.p2{
+
+.p2 {
     color: rgb(255, 255, 255);
     font-family: "Inter";
     font-size: 14px;
     font-weight: 500;
     line-height: 17px;
 }
-.p3{
+
+.p3 {
     color: rgb(255, 255, 255);
     font-family: "Inter";
     font-size: 14px;
     font-weight: 500;
     line-height: 17px;
 }
-.vid1{
+
+.vid1 {
     display: flex;
     margin-bottom: 36px;
 }
-.vid2{
+
+.vid2 {
     display: flex;
     margin-bottom: 36px;
 }
-.vid3{
+
+.vid3 {
     display: flex;
     margin-bottom: 36px;
 }
-.vid1:hover{
+
+.vid1:hover {
     background-color: rgb(235, 173, 81);
 }
-.vid2:hover{
+
+.vid2:hover {
     background-color: rgb(235, 173, 81);
 }
-.vid3:hover{
+
+.vid3:hover {
     background-color: rgb(235, 173, 81);
 }
-.button2{
+
+.button2 {
     width: 79px;
     height: 34px;
     color: rgb(255, 255, 255);
@@ -183,7 +199,8 @@ html{
     line-height: 19px;
     background-color: rgb(200, 83, 18);
 }
-.button3{
+
+.button3 {
     width: 79px;
     height: 34px;
     color: rgb(255, 255, 255);
@@ -193,7 +210,8 @@ html{
     line-height: 19px;
     background-color: rgb(200, 83, 18);
 }
-.button4{
+
+.button4 {
     width: 79px;
     height: 34px;
     color: rgb(255, 255, 255);
@@ -203,9 +221,32 @@ html{
     line-height: 19px;
     background-color: rgb(200, 83, 18);
 }
-.container{
+
+.container {
     margin: 0 auto;
-    outline: 1px solid blue;
+    /* outline: 1px solid blue; */
     display: block;
     width: 1300px;
+}
+
+.main {
+    background-color: rgb(32, 32, 35);
+}
+
+.h {
+    font-family: "Inter";
+    color: white;
+    margin: 0px;
+}
+
+.ord1 {
+    width: 132px;
+    height: 41px;
+    border-radius: 17px;
+    background: rgb(180, 123, 72);
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 25.92px;
+    font-weight: 800;
+    line-height: 31px;
 }
