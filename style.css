@@ -250,3 +250,7 @@ body {
     font-weight: 800;
     line-height: 31px;
 }
+.tekst{
+    background-image: url(/img/Group\ 24.png);
+    background-image: repeat;
+}
