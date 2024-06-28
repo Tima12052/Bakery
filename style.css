@@ -279,7 +279,7 @@ body {
 .viddd {
     background-color: rgb(32, 32, 32);
     background-image: linear-gradient(right top rgb(32,32,35),rgba(0, 0, 0, 0));
-    background-image: url(/img/Сочетание\ 1.png);
+    background-image: url(img/Сочетание\ 1.png);
     background-image: no-repeat;
     height: 852px;
     background-size: cover;
@@ -341,4 +341,6 @@ body {
     height: 211px;
     background-color: rgb(32, 32, 32);
 }
-.why
+.why{
+
+}
