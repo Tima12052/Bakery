@@ -1,3 +1,7 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 .header {
     background-image: url("img/bgi.jpeg");
     background-size: cover;
@@ -29,6 +33,7 @@
 body {
     margin: 0;
 }
+
 .h11 {
     color: rgb(255, 255, 255);
     font-family: "Inter";
@@ -114,6 +119,7 @@ body {
     height: 193px;
     margin-top: 15px;
 }
+
 .h31 {
     color: rgb(255, 255, 255);
     font-family: "Inter";
@@ -250,7 +256,89 @@ body {
     font-weight: 800;
     line-height: 31px;
 }
-.tekst{
+
+/* .tekst{
     background-image: url(/img/Group\ 24.png);
     background-image: repeat;
+} */
+.sect1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    border: 1px solid rgb(255, 255, 255);
+    width: 328px;
+    height: 229px;
 }
+
+.imgm1 {
+    width: 294px;
+    height: 184.39px;
+}
+
+.viddd {
+    background-color: rgb(32, 32, 32);
+    background-image: linear-gradient(right top rgb(32,32,35),rgba(0, 0, 0, 0));
+    background-image: url(/img/Сочетание\ 1.png);
+    background-image: no-repeat;
+    height: 852px;
+    background-size: cover;
+    background-position: top 100px;
+}
+
+.mainedgar {
+    background-image: url(/img/Group\ 46.png);
+    height: 750px;
+}
+
+.o1 {
+    margin-left: 370px;
+    margin-top: 353.51px;
+}
+
+.o2 {
+    margin-left: 407px;
+}
+
+.o3 {
+    margin-left: 370px;
+    margin-top: px;
+}
+
+.o4 {
+    margin-left: 378px;
+    margin-top: 269.51px;
+}
+
+.lg1 {
+    width: 355.89px;
+    height: 223px;
+    border-radius: 112.5px;
+    background-image: linear-gradient(65.47deg, rgb(0, 0, 0) -106.504%, rgb(32, 32, 35) -106.485%, rgba(0, 0, 0, 0) 79.532%);
+    margin-left: 172px;
+    margin-top: 104px;
+}
+.lg2{
+    width: 275px;
+    height: 284px;
+}
+.lg3{
+
+}
+.hh{
+    width: 501px;
+    height: 75px;
+    color: rgb(255, 255, 255);
+    font-family: "Italiana";
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 75px;
+    margin-left: 594px;
+}
+.vivi{
+    display: flex;
+    align-items: center;
+    height: 211px;
+    background-color: rgb(32, 32, 32);
+}
+.why
