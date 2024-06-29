@@ -286,8 +286,8 @@ body {
     background-position: top 100px;
 }
 
-.mainedgar {
-    background-image: url(/img/Group\ 46.png);
+.main {
+    background-image: url("img/Group\ 46.png");
     height: 750px;
 }
 
@@ -342,5 +342,25 @@ body {
     background-color: rgb(32, 32, 32);
 }
 .why{
-
+    background-image: url(img/зрту.jpeg);
+}
+.hb{
+    width: 735px;
+    height: 114px;
+    color: rgb(217, 217, 217);
+    font-family: "Italiana";
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 57px;
+}
+.vi1{
+    width: 197.53px;
+    height: 291.48px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(36px);
+    background: rgba(242, 242, 242, 0.3);
+}
+.ord1{
+    border: none;
+    cursor: pointer;
 }
