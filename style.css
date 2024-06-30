@@ -392,7 +392,7 @@ body {
 
 .s1 {
     display: flex;
-    gap: 171.75px;
+    gap: 10.75px;
 }
 
 .g1 {
@@ -626,20 +626,49 @@ body {
     margin-left: 177.74px;
     margin-top: 16px;
 }
-.ttab1{
+
+.ttab1 {
     display: flex;
 }
-.iw1{
+
+.iw1 {
     display: block;
 }
-.w1{
+
+.w1 {
     margin-left: 159.66px;
     margin-top: 66px;
 }
-.map{
+
+.map {
     margin-top: 44px;
 }
-.how{
+
+.how {
     margin-left: 13200.55;
     margin-top: 180px;
+}
+
+.oah1 {
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+}
+
+.ff1 {
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+}
+
+.sd24h1 {
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
 }
