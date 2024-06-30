@@ -1,7 +1,8 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
+
 .header {
     background-image: url("img/bgi.jpeg");
     background-size: cover;
@@ -278,7 +279,7 @@ body {
 
 .viddd {
     background-color: rgb(32, 32, 32);
-    background-image: linear-gradient(right top rgb(32,32,35),rgba(0, 0, 0, 0));
+    background-image: linear-gradient(right top rgb(32, 32, 35), rgba(0, 0, 0, 0));
     background-image: url(img/Сочетание\ 1.png);
     background-image: no-repeat;
     height: 852px;
@@ -318,14 +319,13 @@ body {
     margin-left: 172px;
     margin-top: 104px;
 }
-.lg2{
+
+.lg2 {
     width: 275px;
     height: 284px;
 }
-.lg3{
 
-}
-.hh{
+.hh {
     width: 501px;
     height: 75px;
     color: rgb(255, 255, 255);
@@ -335,16 +335,19 @@ body {
     line-height: 75px;
     margin-left: 594px;
 }
-.vivi{
+
+.vivi {
     display: flex;
     align-items: center;
     height: 211px;
     background-color: rgb(32, 32, 32);
 }
-.why{
+
+.why {
     background-image: url(img/зрту.jpeg);
 }
-.hb{
+
+.hb {
     width: 735px;
     height: 114px;
     color: rgb(217, 217, 217);
@@ -353,14 +356,290 @@ body {
     font-weight: 400;
     line-height: 57px;
 }
-.vi1{
-    width: 197.53px;
-    height: 291.48px;
+
+.vi1 {
+    width: 322px;
+    height: 198.46px;
     box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
     backdrop-filter: blur(36px);
     background: rgba(242, 242, 242, 0.3);
 }
-.ord1{
+
+.ord1 {
     border: none;
     cursor: pointer;
+    margin-top: 318.51px;
+}
+
+/* .eg1{
+    z-index: 2;
+}
+.eg2{
+    z-index: 1;
+}
+.eg3{
+    z-index: 3;
+} */
+.pp1 {
+    width: 309px;
+    height: 92px;
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+}
+
+.s1 {
+    display: flex;
+    gap: 171.75px;
+}
+
+.g1 {
+    width: 218.25px;
+    height: 183px;
+}
+
+.g2 {
+    width: 218.25px;
+    height: 194px;
+}
+
+.g3 {
+    width: 218.25px;
+    height: 183px;
+}
+
+.w1 {
+    width: 129.54px;
+    height: 57px;
+    color: rgb(255, 255, 255);
+    font-family: "Italiana";
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 57px;
+}
+
+.d1 {
+    background-color: rgb(32, 32, 35);
+    background-size: cover;
+    height: 704px;
+}
+
+.viddd {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.lg3 {
+    width: 334px;
+    height: 332px;
+}
+
+.how {
+    width: 175.73px;
+    height: 44px;
+    color: rgb(131, 131, 131);
+    font-family: "Inter";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+}
+
+.when {
+    width: 109.45px;
+    height: 48px;
+    color: rgb(131, 131, 131);
+    font-family: "Inter";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+}
+
+.call1 {
+    color: rgb(131, 131, 131);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+}
+
+.tt1 {
+    width: 109.45px;
+    height: 48px;
+    color: rgb(131, 131, 131);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+}
+
+.inst1 {
+    width: 225.93px;
+    height: 87px;
+    color: rgb(131, 131, 131);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+}
+
+.time1 {
+    color: rgb(131, 131, 131);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 29px;
+}
+
+.footer {
+    background-color: rgb(32, 32, 35);
+    background-size: cover;
+    height: 351px;
+}
+
+.map {
+    margin-left: 160.66px;
+    margin-bottom: 50px;
+}
+
+.tab1 {
+    width: 322.34px;
+    height: 96px;
+    color: rgb(131, 131, 131);
+    font-family: "Inter";
+    font-size: 40px;
+    font-weight: 200;
+    line-height: 48px;
+}
+
+.wwbh1 {
+    width: 174.73px;
+    height: 24px;
+    color: rgb(131, 131, 131);
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 24px;
+}
+
+.ab1 {
+    width: 68.28px;
+    height: 29px;
+    color: rgb(131, 131, 131);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+}
+
+.afn1 {
+    width: 142.59px;
+    height: 87px;
+    color: rgb(131, 131, 131);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+}
+
+.m1 {
+    width: 119.5px;
+    height: 29px;
+    color: rgb(131, 131, 131);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+}
+
+.wes1 {
+    width: 127.53px;
+    height: 58px;
+    color: rgb(131, 131, 131);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+}
+
+.c1 {
+    width: 107.45px;
+    height: 29px;
+    color: rgb(131, 131, 131);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+}
+
+.wecs1 {
+    width: 118.49px;
+    height: 87px;
+    color: rgb(131, 131, 131);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+}
+
+.earr1 {
+    width: 275.14px;
+    height: 24px;
+    color: rgb(101, 101, 101);
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 24px;
+}
+
+.footer {
+    display: flex;
+}
+
+.footer+div.e1 {
+    background-color: rgb(255, 0, 0);
+}
+
+.af1 {
+    display: block;
+}
+
+.m1 {
+    display: block;
+}
+
+.wc1 {
+    display: block;
+}
+
+.d1 {
+    display: flex;
+}
+
+.tab1 {
+    margin-left: 160.67px;
+    margin-top: 62px;
+}
+
+.wwbh1 {
+    margin-left: 177.74px;
+    margin-top: 16px;
+}
+.ttab1{
+    display: flex;
+}
+.iw1{
+    display: block;
+}
+.w1{
+    margin-left: 159.66px;
+    margin-top: 66px;
+}
+.map{
+    margin-top: 44px;
+}
+.how{
+    margin-left: 13200.55;
+    margin-top: 180px;
 }
